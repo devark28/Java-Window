@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 27, 2020, 4:06:29 AM
+    Author     : PC
+*/
+
+.window {
+    -fx-min-width: 100;
+    -fx-min-height: 30;
+}
+
+.line {
+    -fx-stroke-width: 2;
+    -fx-stroke: royalblue;
+}
